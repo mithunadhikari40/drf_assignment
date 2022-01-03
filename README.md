@@ -8,4 +8,5 @@ This is a  and a try project to check to see how fast I can learn django.
  3. Create a project by `django-admin startproject assignementcura`
  4. Goto the project directory `cd assignementcura`
  4. Create a folder apps inside the current directory `mkdir apps`
- 5. 
+ 5. We are using poetry to manage dependencies. Make sure you have poetry installed. To initialize poetry run `poetry init`
+ 6. To insall all the dependencies run `poetry install`
